@@ -65,7 +65,8 @@ padding: 0;
   top: 30px;
   left: 39px;
   width: 100px;
-  height: 80px;
+  height: 100px;
+  object-fit: cover;
 }
 
 .bmi_text{
